@@ -1,0 +1,313 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 225936 10032 ?        Ss   3月09   2:05 /lib/systemd/systemd --system --deserialize 18
+root         2  0.0  0.0      0     0 ?        S    3月09   0:01 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   3月09   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   3月09   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   3月09   0:00 [kworker/0:0H-kb]
+root         8  0.0  0.0      0     0 ?        I<   3月09   0:00 [mm_percpu_wq]
+root         9  0.0  0.0      0     0 ?        S    3月09   0:13 [ksoftirqd/0]
+root        10  0.0  0.0      0     0 ?        I    3月09   4:40 [rcu_sched]
+root        11  0.0  0.0      0     0 ?        I    3月09   0:00 [rcu_bh]
+root        12  0.0  0.0      0     0 ?        S    3月09   0:00 [migration/0]
+root        13  0.0  0.0      0     0 ?        S    3月09   0:10 [watchdog/0]
+root        14  0.0  0.0      0     0 ?        S    3月09   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    3月09   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    3月09   0:08 [watchdog/1]
+root        17  0.0  0.0      0     0 ?        S    3月09   0:01 [migration/1]
+root        18  0.0  0.0      0     0 ?        S    3月09   0:24 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        I<   3月09   0:00 [kworker/1:0H-kb]
+root        21  0.0  0.0      0     0 ?        S    3月09   0:00 [cpuhp/2]
+root        22  0.0  0.0      0     0 ?        S    3月09   0:08 [watchdog/2]
+root        23  0.0  0.0      0     0 ?        S    3月09   0:01 [migration/2]
+root        24  0.0  0.0      0     0 ?        S    3月09   0:11 [ksoftirqd/2]
+root        26  0.0  0.0      0     0 ?        I<   3月09   0:00 [kworker/2:0H-kb]
+root        27  0.0  0.0      0     0 ?        S    3月09   0:00 [cpuhp/3]
+root        28  0.0  0.0      0     0 ?        S    3月09   0:08 [watchdog/3]
+root        29  0.0  0.0      0     0 ?        S    3月09   0:00 [migration/3]
+root        30  0.0  0.0      0     0 ?        S    3月09   0:11 [ksoftirqd/3]
+root        32  0.0  0.0      0     0 ?        I<   3月09   0:00 [kworker/3:0H-kb]
+root        33  0.0  0.0      0     0 ?        S    3月09   0:00 [kdevtmpfs]
+root        34  0.0  0.0      0     0 ?        I<   3月09   0:00 [netns]
+root        35  0.0  0.0      0     0 ?        S    3月09   0:00 [rcu_tasks_kthre]
+root        36  0.0  0.0      0     0 ?        S    3月09   0:00 [kauditd]
+root        40  0.0  0.0      0     0 ?        S    3月09   0:02 [khungtaskd]
+root        41  0.0  0.0      0     0 ?        S    3月09   0:00 [oom_reaper]
+root        42  0.0  0.0      0     0 ?        I<   3月09   0:00 [writeback]
+root        43  0.0  0.0      0     0 ?        S    3月09   0:00 [kcompactd0]
+root        44  0.0  0.0      0     0 ?        SN   3月09   0:00 [ksmd]
+root        45  0.0  0.0      0     0 ?        SN   3月09   0:00 [khugepaged]
+root        46  0.0  0.0      0     0 ?        I<   3月09   0:00 [crypto]
+root        47  0.0  0.0      0     0 ?        I<   3月09   0:00 [kintegrityd]
+root        48  0.0  0.0      0     0 ?        I<   3月09   0:00 [kblockd]
+root        49  0.0  0.0      0     0 ?        I<   3月09   0:00 [ata_sff]
+root        50  0.0  0.0      0     0 ?        I<   3月09   0:00 [md]
+root        51  0.0  0.0      0     0 ?        I<   3月09   0:00 [edac-poller]
+root        52  0.0  0.0      0     0 ?        I<   3月09   0:00 [devfreq_wq]
+root        53  0.0  0.0      0     0 ?        S    3月09   0:00 [watchdogd]
+root        58  0.0  0.0      0     0 ?        S    3月09   0:02 [kswapd0]
+root        60  0.0  0.0      0     0 ?        S    3月09   0:00 [ecryptfs-kthrea]
+root       105  0.0  0.0      0     0 ?        I<   3月09   0:00 [kthrotld]
+root       106  0.0  0.0      0     0 ?        I<   3月09   0:00 [acpi_thermal_pm]
+root       111  0.0  0.0      0     0 ?        I<   3月09   0:00 [ipv6_addrconf]
+root       121  0.0  0.0      0     0 ?        I<   3月09   0:00 [kstrp]
+root       138  0.0  0.0      0     0 ?        I<   3月09   0:00 [charger_manager]
+root       188  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_0]
+root       189  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_0]
+root       190  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_1]
+root       191  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_1]
+root       192  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_2]
+root       193  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_2]
+root       194  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_3]
+root       195  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_3]
+root       196  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_4]
+root       197  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_4]
+root       198  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_5]
+root       199  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_5]
+root       203  0.0  0.0      0     0 ?        S    3月09   0:00 [scsi_eh_6]
+root       204  0.0  0.0      0     0 ?        I<   3月09   0:00 [scsi_tmf_6]
+root       205  0.0  0.0      0     0 ?        S    3月09   2:18 [usb-storage]
+root       207  0.0  0.0      0     0 ?        I<   3月09   0:38 [kworker/0:1H-kb]
+root       209  0.0  0.0      0     0 ?        I<   3月09   0:15 [kworker/2:1H-kb]
+root       237  0.0  0.0      0     0 ?        S    3月09   0:44 [jbd2/sda8-8]
+root       238  0.0  0.0      0     0 ?        I<   3月09   0:00 [ext4-rsv-conver]
+root       266  0.0  0.0      0     0 ?        I<   3月09   0:15 [kworker/1:1H-kb]
+root       281  0.0  0.0      0     0 ?        I<   3月09   0:18 [kworker/3:1H-kb]
+root       305  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop0]
+root       307  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop1]
+root       310  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop2]
+root       311  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop3]
+root       317  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop4]
+root       318  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop5]
+root       320  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop6]
+root       321  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop7]
+root       322  0.0  0.0      0     0 ?        S<   3月09   0:00 [loop8]
+root       343  0.0  0.0      0     0 ?        I<   3月09   0:00 [asus_wireless_w]
+root       370  0.0  0.0      0     0 ?        I<   3月09   0:00 [cfg80211]
+root       459  0.0  0.0      0     0 ?        I<   3月09   0:00 [led_workqueue]
+root       469  0.0  0.0      0     0 ?        S    3月09   0:34 [i915/signal:0]
+root       470  0.0  0.0      0     0 ?        S    3月09   0:00 [i915/signal:1]
+root       471  0.0  0.0      0     0 ?        S    3月09   0:00 [i915/signal:2]
+root       500  0.0  0.0      0     0 ?        I<   3月09   0:00 [nvkm-disp]
+root       514  0.0  0.0      0     0 ?        I<   3月09   0:00 [ttm_swap]
+message+   816  0.0  0.0  53352  7388 ?        Ss   3月09  21:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       829  0.0  0.0  45248  7816 ?        Ss   3月09   4:08 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       831  0.0  0.0 110476  3468 ?        Ssl  3月09   1:57 /usr/sbin/irqbalance --foreground
+root       833  0.0  0.1 427260  9100 ?        Ssl  3月09   0:00 /usr/sbin/ModemManager
+root       834  0.0  0.2 177632 17624 ?        Ssl  3月09   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       840  0.0  0.0  38428  3624 ?        Ss   3月09   0:03 /usr/sbin/cron -f
+avahi      842  0.0  0.0  47340  3888 ?        Ss   3月09   0:33 avahi-daemon: running [dragon-X.local]
+root       843  0.0  0.0  70692  6220 ?        Ss   3月09   0:31 /lib/systemd/systemd-logind
+root       844  0.0  0.0 294832  7392 ?        Ssl  3月09   0:54 /usr/lib/accountsservice/accounts-daemon
+root       845  0.0  0.0   4552   784 ?        Ss   3月09   0:21 /usr/sbin/acpid
+root       847  0.0  0.1 503568 13028 ?        Ssl  3月09   4:39 /usr/lib/udisks2/udisksd
+root       848  0.0  0.1 186968  9588 ?        Ssl  3月09   1:55 /usr/sbin/thermald --no-daemon --dbus-enable
+root       850  0.0  0.2 1036148 19752 ?       Ssl  3月09  20:47 /usr/sbin/NetworkManager --no-daemon
+syslog     855  0.0  0.0 263036  4720 ?        Ssl  3月09   0:28 /usr/sbin/rsyslogd -n
+avahi      885  0.0  0.0  47076   340 ?        S    3月09   0:00 avahi-daemon: chroot helper
+root       889  0.0  0.1 304192 11468 ?        Ssl  3月09   0:07 /usr/lib/policykit-1/polkitd --no-debug
+root       929  0.0  0.2 194320 20396 ?        Ssl  3月09   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root       939  0.0  0.1 308184  8556 ?        Ssl  3月09   0:00 /usr/sbin/gdm3
+root       947  0.0  0.1 261552  8692 ?        Sl   3月09   0:00 gdm-session-worker [pam/gdm-launch-environment]
+gdm        991  0.0  0.1  77120  8128 ?        Ss   3月09   0:10 /lib/systemd/systemd --user
+gdm        992  0.0  0.0 114012  2580 ?        S    3月09   0:00 (sd-pam)
+gdm       1007  0.0  0.0 197796  5852 tty1     Ssl+ 3月09   0:00 /usr/lib/gdm3/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm       1009  0.0  0.0  50356  4732 ?        Ss   3月09   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm       1011  0.0  0.1 632648 14128 tty1     Sl+  3月09   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm       1017  0.1  1.9 3846992 153424 tty1   Sl+  3月09  34:52 /usr/bin/gnome-shell
+root      1029  0.0  0.1 322412  9112 ?        Ssl  3月09   0:44 /usr/lib/upower/upowerd
+whoopsie  1063  0.0  0.1 611728 12884 ?        Ssl  3月09   0:01 /usr/bin/whoopsie -f
+kernoops  1068  0.0  0.0  56936   416 ?        Ss   3月09   2:03 /usr/sbin/kerneloops --test
+kernoops  1071  0.0  0.0  56936   416 ?        Ss   3月09   2:03 /usr/sbin/kerneloops
+gdm       1131  0.0  0.6 614248 49768 tty1     Sl+  3月09   0:01 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm       1139  0.0  0.0 349232  6072 ?        Ssl  3月09   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm       1144  0.0  0.0  49928  3896 ?        S    3月09   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm       1146  0.0  0.0 220760  5740 ?        Sl   3月09   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+gdm       1151  0.0  0.1 1415620 11576 ?       Ssl  3月09   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit     1152  0.0  0.0 183504  2964 ?        SNsl 3月09   0:30 /usr/lib/rtkit/rtkit-daemon
+gdm       1166  0.0  0.0 361468  7956 tty1     Sl   3月09   0:00 ibus-daemon --xim --panel disable
+gdm       1169  0.0  0.0 280744  6048 tty1     Sl   3月09   0:00 /usr/lib/ibus/ibus-dconf
+gdm       1171  0.0  0.3 487556 30420 tty1     Sl   3月09   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm       1174  0.0  0.0 278556  6336 ?        Sl   3月09   0:00 /usr/lib/ibus/ibus-portal
+root      1186  0.0  0.0 296868  7156 ?        Ssl  3月09   0:06 /usr/lib/x86_64-linux-gnu/boltd
+root      1187  0.0  1.1 528384 91272 ?        Ssl  3月09   1:20 /usr/lib/packagekit/packagekitd
+gdm       1188  0.0  0.3 637468 31168 tty1     Sl+  3月09   0:02 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm       1192  0.0  0.0 278116  6088 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm       1193  0.0  0.3 487172 29788 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm       1198  0.1  0.4 817892 38480 tty1     Sl+  3月09  43:24 /usr/lib/gnome-settings-daemon/gsd-color
+gdm       1199  0.0  0.1 393708 13784 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm       1201  0.0  0.0 283740  5912 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm       1202  0.0  0.3 641532 30276 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm       1208  0.0  0.4 1214752 32312 tty1    Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm       1210  0.0  0.0 201996  4764 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm       1211  0.0  0.4 933456 32452 tty1     Sl+  3月09   0:11 /usr/lib/gnome-settings-daemon/gsd-power
+gdm       1214  0.0  0.1 267004  8984 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm       1215  0.0  0.0 202016  4744 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm       1218  0.0  0.0 275732  5288 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm       1219  0.0  0.1 305064  8652 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm       1224  0.0  0.1 377900  8204 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm       1226  0.0  0.1 332820  8164 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm       1232  0.0  0.3 572284 31376 tty1     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm       1243  0.0  0.0 204888  6952 tty1     Sl   3月09   0:00 /usr/lib/ibus/ibus-engine-simple
+colord    1279  0.0  0.1 939760 15008 ?        Ssl  3月09   0:00 /usr/lib/colord/colord
+root      1310  0.0  0.1 417188 12552 ?        Sl   3月09   0:01 gdm-session-worker [pam/gdm-password]
+dragon    1316  0.0  0.1  77248  8388 ?        Ss   3月09   0:24 /lib/systemd/systemd --user
+dragon    1317  0.0  0.0 114012  2584 ?        S    3月09   0:00 (sd-pam)
+dragon    1330  0.0  0.1 366552 13100 ?        SLl  3月09   0:51 /usr/bin/gnome-keyring-daemon --daemonize --login
+dragon    1334  0.0  0.0 212128  6208 tty2     Ssl+ 3月09   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+dragon    1336  0.4  1.8 792540 149408 tty2    Sl+  3月09 168:45 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+dragon    1343  0.0  0.0  51864  6364 ?        Ss   3月09   6:22 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+dragon    1346  0.0  0.1 567780 14800 tty2     Sl+  3月09   0:02 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+dragon    1377  0.0  1.3 451620 107320 ?       Sl   3月09   2:28 /usr/bin/fcitx
+systemd+  1381  0.0  0.0  71272  6708 ?        Ss   3月18   0:21 /lib/systemd/systemd-resolved
+systemd+  1386  0.0  0.0 146100  3284 ?        Ssl  3月18   0:02 /lib/systemd/systemd-timesyncd
+root      1390  0.0  0.9 177868 74752 ?        S<s  3月18   0:44 /lib/systemd/systemd-journald
+dragon    1407  0.0  0.0  50476  4596 ?        Ss   3月09   1:07 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+dragon    1415  0.0  0.0  27592   212 ?        SN   3月09   0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-4THqLbEyG0,guid=5d0874b7163b0b3cf3ff71b55c8325a6 1407
+dragon    1436  0.0  0.0  11304   316 ?        Ss   3月09   0:09 /usr/bin/ssh-agent /usr/bin/sogou-session /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+dragon    1448  0.0  0.0 349252  5928 ?        Ssl  3月09   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+dragon    1453  0.0  0.0  50056  4056 ?        S    3月09   0:04 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+dragon    1455  0.0  0.0 220772  6936 ?        Sl   3月09   0:16 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+dragon    1473  0.3  4.5 4097752 364120 tty2   Sl+  3月09 116:22 /usr/bin/gnome-shell
+dragon    1480  0.0  0.0 292068  7684 ?        Ssl  3月09   0:00 /usr/lib/gvfs/gvfsd
+dragon    1485  0.0  0.0 416112  5336 ?        Sl   3月09   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+dragon    1496  0.0  0.1 1696860 13372 ?       S<l  3月09   7:04 /usr/bin/pulseaudio --start --log-target=syslog
+dragon    1542  0.0  0.3 455060 28608 ?        S    3月09   7:48 sogou-qimpanel-watchdog
+dragon    1548  0.0  0.1 361548  8196 tty2     Sl   3月09   0:19 ibus-daemon --xim --panel disable
+dragon    1552  0.0  0.0 280748  7036 tty2     Sl   3月09   0:00 /usr/lib/ibus/ibus-dconf
+dragon    1554  0.0  0.2 344928 22620 tty2     Sl   3月09   0:01 /usr/lib/ibus/ibus-x11 --kill-daemon
+dragon    1556  0.0  0.0 278688  7272 ?        Sl   3月09   0:00 /usr/lib/ibus/ibus-portal
+dragon    1567  0.0  0.2 689848 21352 ?        Sl   3月09   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+dragon    1574  0.0  0.1 380716 10668 ?        Ssl  3月09   0:59 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+dragon    1580  0.0  0.3 1372100 26316 ?       Ssl  3月09   0:00 /usr/lib/evolution/evolution-source-registry
+dragon    1582  0.0  0.0 274044  6284 ?        Ssl  3月09   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+dragon    1586  0.0  0.3 774260 31584 ?        Sl   3月09   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+dragon    1599  0.0  0.0 303356  7804 ?        Sl   3月09   0:02 /usr/lib/gnome-online-accounts/goa-identity-service
+dragon    1604  0.0  0.0 288788  7152 ?        Ssl  3月09   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+dragon    1608  0.0  0.0 378812  7900 ?        Ssl  3月09   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+dragon    1613  0.0  0.0 275872  6268 ?        Ssl  3月09   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+dragon    1620  0.0  0.3 799068 29428 tty2     Sl+  3月09   0:14 /usr/lib/gnome-settings-daemon/gsd-power
+dragon    1621  0.0  0.1 349316 10676 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+dragon    1622  0.0  0.0 423344  6096 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+dragon    1624  0.0  0.0 275732  6128 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+dragon    1630  0.0  0.1 453180 10676 tty2     Sl+  3月09   8:34 /usr/lib/gnome-settings-daemon/gsd-sharing
+dragon    1634  0.0  0.1 451632  8288 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+dragon    1643  0.0  0.1 332824  8172 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+dragon    1646  0.0  0.3 429256 26432 tty2     Sl+  3月09   0:02 /usr/lib/gnome-settings-daemon/gsd-wacom
+dragon    1649  0.0  0.2 494712 23992 tty2     Sl+  3月09   0:04 /usr/lib/gnome-settings-daemon/gsd-xsettings
+dragon    1653  0.0  0.0 278116  6040 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+dragon    1658  0.0  0.2 344620 22268 tty2     Sl+  3月09   0:02 /usr/lib/gnome-settings-daemon/gsd-clipboard
+dragon    1663  0.0  0.1 469700 13640 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+dragon    1664  0.0  0.0 364656  7548 tty2     Sl+  3月09   1:43 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+dragon    1665  0.1  0.4 814556 33280 tty2     Sl+  3月09  43:15 /usr/lib/gnome-settings-daemon/gsd-color
+dragon    1669  0.0  0.3 1279224 26760 tty2    Sl+  3月09   0:03 /usr/lib/gnome-settings-daemon/gsd-media-keys
+dragon    1670  0.0  0.0 278120  6000 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+dragon    1672  0.0  0.2 498756 22688 tty2     Sl+  3月09   0:01 /usr/lib/gnome-settings-daemon/gsd-keyboard
+dragon    1708  0.0  0.1 508760 12776 tty2     Sl+  3月09   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+dragon    1710  0.0  0.0 271932  6148 tty2     Sl+  3月09   0:01 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+dragon    1715  0.0  1.0 1971128 83740 tty2    Sl+  3月09   0:54 nautilus-desktop
+dragon    1743  0.0  0.8 900324 67384 ?        Ssl  3月09   0:00 /usr/lib/evolution/evolution-calendar-factory
+dragon    1749  0.0  0.1 393088  8920 ?        Sl   3月09   0:18 /usr/lib/gvfs/gvfsd-trash --spawner :1.24 /org/gtk/gvfs/exec_spaw/0
+dragon    1756  0.0  0.0 204884  6960 tty2     Sl   3月09   0:07 /usr/lib/ibus/ibus-engine-simple
+dragon    1780  0.0  0.0 188240  5448 ?        Sl   3月09   0:02 /usr/lib/dconf/dconf-service
+dragon    1788  0.0  0.7 1135976 63884 ?       Sl   3月09   0:03 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1743x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1743/2
+dragon    1800  0.0  0.3 732640 24592 ?        Ssl  3月09   0:00 /usr/lib/evolution/evolution-addressbook-factory
+dragon    1813  0.0  0.3 869680 26568 ?        Sl   3月09   0:01 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1800x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1800/2
+dragon    1829  0.0  0.0 204668  6532 ?        Ssl  3月09   0:00 /usr/lib/gvfs/gvfsd-metadata
+dragon    1882  0.0  2.3 3440488 190640 ?      Sl   3月09  11:13 sogou-qimpanel
+dragon    2210  0.0  3.5 1615352 282380 tty2   SLl+ 3月09  11:18 /usr/bin/gnome-software --gapplication-service
+dragon    2212  0.0  0.3 595212 28388 tty2     Sl+  3月09   0:44 update-notifier
+root      2230  0.0  0.2 556400 22148 ?        Ssl  3月09   1:12 /usr/lib/fwupd/fwupd
+root      2353  0.0  0.0  46140  4696 ?        Ss   3月18   0:02 /lib/systemd/systemd-udevd
+dragon    2794  0.0  1.0 1014648 80448 ?       Sl   3月20   0:29 /usr/bin/flameshot
+dragon    3012  0.0  0.0  82724  6924 ?        Ss   3月09   0:00 /usr/lib/bluetooth/obexd
+root      3550  0.0  0.1 265416  8520 ?        Sl   3月31   0:00 gdm-session-worker [pam/gdm-password]
+uuidd     3960  0.0  0.0  35244  1376 ?        Ss   3月09   0:00 /usr/sbin/uuidd --socket-activation
+root      4553  0.0  0.1 265416  8256 ?        Sl   3月10   0:00 gdm-session-worker [pam/gdm-password]
+root      6221  0.0  0.1 265416  8340 ?        Sl   3月15   0:00 gdm-session-worker [pam/gdm-password]
+root      6503  0.0  0.1 265416  8276 ?        Sl   3月15   0:00 gdm-session-worker [pam/gdm-password]
+root      7396  0.0  0.1 265416  8420 ?        Sl   3月28   0:00 gdm-session-worker [pam/gdm-password]
+root      7846  0.0  0.0      0     0 ?        D    3月21   0:00 [192.168.1.106-m]
+root      8159  0.0  0.0      0     0 ?        S<   3月13   0:00 [loop10]
+root      9385  0.0  0.1 265416  8288 ?        Sl   4月01   0:00 gdm-session-worker [pam/gdm-password]
+dragon    9737  0.0  0.0   4508    72 ?        S    4月01   0:01 ./orphan
+root      9743  0.0  0.0  45700  2488 ?        S    3月09   0:00 dbus-launch --autolaunch=9b554bfd2efe4824bb44382170c3da52 --binary-syntax --close-stderr
+root      9744  0.0  0.0  50000  4004 ?        Ss   3月09   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+root      9747  0.0  0.0 188024  5140 ?        Sl   3月09   0:00 /usr/lib/dconf/dconf-service
+dragon    9834  0.0  0.0   4508    72 ?        S    4月01   0:01 ./orphan
+dragon    9840  0.0  0.1 359636 10416 ?        Sl   3月09   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.24 /org/gtk/gvfs/exec_spaw/1
+dragon    9853  0.0  0.0  30568  6416 pts/0    Ss+  4月01   0:00 -/bin/bash
+dragon    9955  0.0  0.0   4508    72 ?        S    4月01   0:01 ./orphan
+dragon   10137  0.0  0.0  30568  6300 pts/6    Ss+  4月01   0:00 -/bin/bash
+dragon   10233  0.0  0.0  30688  6576 pts/2    Ss+  4月01   0:01 -/bin/bash
+root     10379  0.0  0.0  28676  2760 ?        Ss   3月18   0:00 /usr/sbin/vsftpd /etc/vsftpd.conf
+root     10644  0.0  0.1 265416  8344 ?        Sl   3月26   0:00 gdm-session-worker [pam/gdm-password]
+dragon   11413  0.0  0.0  30796  6752 pts/8    Ss   4月01   0:01 -/bin/bash
+root     12348  0.0  0.1 265416  8188 ?        Sl   3月11   0:00 gdm-session-worker [pam/gdm-password]
+root     12684  0.0  0.0   4628   788 tty2     S+   3月22   0:00 /bin/sh /usr/lib/update-notifier/package-system-locked
+root     12687  0.0  0.0  14676  2668 tty2     D+   3月22   0:23 fuser /var/lib/dpkg/lock
+root     12887  0.0  0.0      0     0 ?        S<   3月22   0:00 [loop11]
+root     12964  0.0  0.0      0     0 ?        S<   3月22   0:00 [loop12]
+root     13068  0.0  0.0      0     0 ?        S<   3月22   0:00 [loop13]
+root     13172  0.0  0.0      0     0 ?        S<   3月22   0:00 [loop14]
+root     13270  0.0  0.0      0     0 ?        S<   3月22   0:00 [loop15]
+root     13376  0.0  0.0      0     0 ?        S<   3月22   0:00 [loop16]
+root     14095  0.0  0.0  47600  3516 ?        Ss   3月18   0:01 /sbin/rpcbind -f -w
+root     14184  0.0  0.1 265416  8148 ?        Sl   3月28   0:00 gdm-session-worker [pam/gdm-password]
+root     14449  0.0  0.0      0     0 ?        I<   3月18   0:00 [rpciod]
+root     14450  0.0  0.0      0     0 ?        I<   3月18   0:00 [xprtiod]
+dragon   15566  0.0  0.8 1040168 69476 tty2    SLl+ 3月16   0:27 ss-qt5
+root     15823  0.0  0.0  23748   196 ?        Ss   3月18   0:00 /usr/sbin/rpc.idmapd
+root     15824  0.0  0.0  54104  5056 ?        Ss   3月18   0:00 /usr/sbin/rpc.mountd --manage-gids
+root     15827  0.0  0.0      0     0 ?        S    3月18   0:00 [lockd]
+root     15829  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15830  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15831  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15832  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15833  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15834  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15835  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15836  0.0  0.0      0     0 ?        S    3月18   0:00 [nfsd]
+root     15863  0.0  0.0      0     0 ?        I<   3月18   0:00 [nfsiod]
+root     15872  0.0  0.0      0     0 ?        S    3月18   0:00 [NFSv4 callback]
+root     17526  0.0  0.0  72296  5576 ?        Ss   3月18   0:00 /usr/sbin/sshd -D
+dragon   17614  0.0  0.0  11304  1552 ?        S    3月18   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+dragon   18060  0.0  0.0  30436  6088 pts/1    Ss+  3月16   0:00 -/bin/bash
+root     18469  0.0  0.0      0     0 ?        S<   3月29   0:00 [loop17]
+root     18526  0.0  0.2 1228572 22728 ?       Ssl  3月29   0:26 /usr/lib/snapd/snapd
+root     19802  0.1  0.0      0     0 ?        I    3月29   6:51 [kworker/3:0-eve]
+root     20187  0.0  0.0      0     0 ?        I    09:48   0:02 [kworker/0:0-eve]
+root     20388  0.0  0.0      0     0 ?        I    09:55   0:01 [kworker/2:1-eve]
+root     20399  0.0  0.1 265416  8388 ?        Sl   3月27   0:00 gdm-session-worker [pam/gdm-password]
+root     20582  0.0  0.1 265416  8408 ?        Sl   3月12   0:00 gdm-session-worker [pam/gdm-password]
+root     20635  0.0  0.1 265416  8132 ?        Sl   3月12   0:00 gdm-session-worker [pam/gdm-password]
+root     21330  0.0  0.0  23036  2660 ?        Ss   3月27   0:00 /usr/sbin/anacron -dsq
+root     21349  0.0  0.0   4628   832 ?        S    3月27   0:00 /bin/sh -c run-parts --report /etc/cron.daily
+root     21350  0.0  0.0   4520  1648 ?        S    3月27   0:00 run-parts --report /etc/cron.daily
+root     21400  0.0  0.0 107684  7992 ?        Ss   3月27   0:00 /usr/sbin/cupsd -l
+root     21401  0.0  0.1 303520 10976 ?        Ssl  3月27   0:00 /usr/sbin/cups-browsed
+root     21413  0.0  0.0  19992  3556 ?        S    3月27   0:00 /bin/bash /etc/cron.daily/mlocate
+root     21419  0.0  0.0  18836   884 ?        S    3月27   0:00 flock --nonblock /run/mlocate.daily.lock /usr/bin/ionice -c3 /usr/bin/updatedb.mlocate
+root     21420  0.0  0.0  14784  2820 ?        D    3月27   0:12 /usr/bin/updatedb.mlocate
+dragon   21688  0.0  0.1 591556  8388 ?        Sl   3月09   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.24 /org/gtk/gvfs/exec_spaw/3
+dragon   21708  0.0  0.0 455024  7984 ?        Sl   3月09   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.24 /org/gtk/gvfs/exec_spaw/6
+dragon   21838  0.0  1.5 893020 126772 tty2    Sl+  3月12   9:40 /usr/bin/python /usr/bin/x-terminal-emulator
+root     22530  0.0  0.0      0     0 ?        I<   11:02   0:00 [kworker/u9:2-xp]
+root     23341  0.1  0.0      0     0 ?        I    3月29   7:13 [kworker/1:3-mm_]
+root     23470  0.0  0.0      0     0 ?        I    11:33   0:01 [kworker/u8:4-rp]
+root     23488  0.0  0.0      0     0 ?        I    11:41   0:01 [kworker/u8:0-ev]
+root     23512  0.0  0.0      0     0 ?        I<   11:50   0:00 [kworker/u9:0-xp]
+root     23516  0.0  0.0      0     0 ?        I    11:51   0:00 [kworker/u8:2-rp]
+root     23524  0.0  0.0      0     0 ?        I    11:54   0:00 [kworker/0:2-eve]
+root     23531  0.1  0.0      0     0 ?        I    11:56   0:01 [kworker/u8:1-rp]
+root     23534  0.0  0.0      0     0 ?        I    11:59   0:00 [kworker/3:2-eve]
+root     23550  0.0  0.0      0     0 ?        I    12:02   0:00 [kworker/1:0-eve]
+root     23555  0.0  0.0      0     0 ?        I    12:04   0:00 [kworker/2:2-eve]
+root     23737  0.0  0.0      0     0 ?        I<   12:11   0:00 [kworker/u9:1-xp]
+dragon   23827  0.0  0.0   4376   824 pts/8    S+   12:13   0:00 ./hw_fork_waitpid
+dragon   23828  0.0  0.0  46772  3880 pts/8    R+   12:13   0:00 ps -a -u -x
+root     29638  0.0  0.1 265416  8252 ?        Sl   3月12   0:00 gdm-session-worker [pam/gdm-password]
+root     29990  0.0  0.0      0     0 ?        S    3月12   0:00 [scsi_eh_7]
+root     29991  0.0  0.0      0     0 ?        I<   3月12   0:00 [scsi_tmf_7]
+root     30170  0.0  0.1 265416  8328 ?        Sl   3月24   0:00 gdm-session-worker [pam/gdm-password]
+gdm      30677  0.0  0.0 187772  4936 ?        Sl   3月09   0:00 /usr/lib/dconf/dconf-service
+root     32722  0.0  0.1 265416  8364 ?        Sl   3月25   0:00 gdm-session-worker [pam/gdm-password]
