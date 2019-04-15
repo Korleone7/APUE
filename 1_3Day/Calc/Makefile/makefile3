@@ -1,0 +1,14 @@
+obj=main.o add.o sub.o mul.o
+target=app
+#makefile自己维护的一些变量
+CC=gcc
+CPPLFAGS = -I
+CFLAGS = -Wall -g -c
+LDFLAGS = -L -l
+app:$(obj)
+	gcc $(obj) -o $(target)
+
+%.o:%.c
+	$(CC) -c $< -o $@
+
+
