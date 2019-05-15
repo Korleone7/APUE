@@ -1,8 +1,0 @@
-total 84
--rw-rw-r-- 1 dragon dragon     0 4月  12 15:32 1.txt
-drwxrwxr-x 2 dragon dragon  4096 4月  12 11:02 local_qq_CS
--rw-rw-r-- 1 dragon dragon   592 4月   8 22:02 makefile
--rw-rw-r-- 1 dragon dragon  3514 4月  10 15:51 multi_process_cp.c
-drwxr-xr-x 2 dragon dragon  4096 4月  12 15:13 qq
-drwxr-xr-x 2 dragon dragon  4096 4月  12 15:29 simple_shell
--rw-r--r-- 1 dragon dragon 62342 4月   8 16:55 [综合习题]Linux系统编程 .docx
